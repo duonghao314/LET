@@ -1,2 +1,2 @@
 # LET
-Lảning Every Things 
+Learning Every Things 
